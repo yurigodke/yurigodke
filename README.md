@@ -1,9 +1,11 @@
-#### Yuri Godke
+<p align="center">
+    <img
+        src="https://yurigodke.com.br/github-profile/image/header.png"
+        alt="Yuri Godke"
+    />
+</p>
 
 <!--
-Nome
-Subtítulo
-
 Sobre mim (curto)
 
 Contato
