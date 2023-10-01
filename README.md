@@ -5,7 +5,7 @@
     />
 </p>
 
-<details>
+<details open>
     <summary>
         <h2>About (en)</h2>
     </summary>
@@ -53,7 +53,19 @@
     </a>
 </p>
 
-<!--
+<h2>Projetos</h2>
 
-Projetos
--->
+<p align="center">
+    <a href="https://github.com/yurigodke/quickhull" target="_blank">
+        <img
+            src="https://yurigodke.com.br/github-profile/image/quickhull.png"
+            alt="QuickHull"
+        />
+    </a>
+    <a href="https://github.com/yurigodke/bgMicrobe" target="_blank">
+        <img
+            src="https://yurigodke.com.br/github-profile/image/microbebg.png"
+            alt="Microbe BG"
+        />
+    </a>
+</p>
