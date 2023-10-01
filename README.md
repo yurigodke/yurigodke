@@ -55,7 +55,7 @@
 
 <h2>Projetos</h2>
 
-<p align="center">
+<p>
     <a href="https://github.com/yurigodke/quickhull" target="_blank">
         <img
             src="https://yurigodke.com.br/github-profile/image/quickhull.png"
