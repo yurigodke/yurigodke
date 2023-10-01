@@ -53,7 +53,7 @@
     </a>
 </p>
 
-<h2>Projetos</h2>
+<h2>Projects / Projetos</h2>
 
 <p>
     <a href="https://github.com/yurigodke/quickhull" target="_blank">
